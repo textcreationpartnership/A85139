@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands vvarning-peece gone forth. Written upon an occasion of the coming forth of a book of one Thomas Robbins B. of D. And as he calls himself England's watchman, but is discovered to be England's blind guide. By one Richard Farneworth a servant of the Lord. York-shire. June 1653.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85139</idno>
+            <idno type="STC">Wing F482</idno>
+            <idno type="STC">Thomason E703_14</idno>
+            <idno type="STC">ESTC R207161</idno>
+            <idno type="EEBO-CITATION">99866231</idno>
+            <idno type="PROQUEST">99866231</idno>
+            <idno type="VID">118496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118496)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E703[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands vvarning-peece gone forth. Written upon an occasion of the coming forth of a book of one Thomas Robbins B. of D. And as he calls himself England's watchman, but is discovered to be England's blind guide. By one Richard Farneworth a servant of the Lord. York-shire. June 1653.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Wayte, and are to be sold at the Pavement in York.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653:</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>According to Fortesque this is a reply to: Englands gentle admonition. According to Wing, apparently not published until the 1670's.</note>
+                  <note>Annotation on Thomason copy: "July 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robins, Thomas, --  B.D. --  Englands gentle admonition.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118496:1" rendition="simple:additions"/>
+            <p>ENGLANDS VVarning-Peece GONE FORTH.</p>
+            <p>Written upon an occaſion of the com<g ref="char:EOLhyphen"/>ing forth of a book of one <hi>Thomas Robbins</hi> B. of D. And as he calls himſelf <hi>England's Watchman,</hi> BUT Is diſcovered to be <hi>England</hi>'s <hi>Blind Guide.</hi>
+            </p>
+            <p>
+               <hi>By one</hi> Richard Farneworth <hi>A ſervant of the Lord.</hi> York-ſhire. <hi>June</hi> 1653.</p>
+            <q>
+               <p>Every one take warning betime, leſt the evil day come upon you at unawares; and take heed of the Doctrine of the Phariſees, for they ſay and do not; mark them that do ſo, for they are falſe Prophets,</p>
+               <bibl>Matth. 7.15, &amp;c.</bibl>
+            </q>
+            <q>
+               <p>And ſo terrible was the ſight, that <hi>Moſes</hi> ſaid, I exceeding<g ref="char:EOLhyphen"/>ly fear and Quake.</p>
+               <bibl>Hebr. 12.21.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Wayte,</hi> and are to be ſold at the Pavement in <hi>York.</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118496:2"/>
+            <pb facs="tcp:118496:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>AS you tender the good and welfare of your own ſouls, take warning betime, and do not run wil<g ref="char:EOLhyphen"/>fully on into wickedneſs, but while it is day hearken to hear the voice of the Lord Chriſt in you, that you may know him at work in you; for when they ſhall ſay, loe here is Chriſt, or loe there is Chriſt, go not forth, but learn to know Chriſt in you; for when Jeſus Chriſt was demanded of the Scribes and the Phariſees when the Kingdom of God ſhould come; he ſaid, that the King<g ref="char:EOLhyphen"/>dom of God came not with obſervations, as loe here, and loe there; but ſaith he the Kingdom of God is with<g ref="char:EOLhyphen"/>in you, <hi>Luke 17.20, 21.</hi> Take heed to your ſelves, and beware of the Scribes, which Jeſus Chriſt forewarneth you of; for now there is many of them that do ſeduce, and draweth from the inward Guide; Therefore take heed of following their pernicious waies, by reaſon of whom the way of truth is evil ſpoken of. Look into this little enſuing Treatiſe, and it will give thee a Cha<g ref="char:EOLhyphen"/>racter of them, that thou maiſt the more eaſily ſhun them and their way, and not be an upholder thereof.</p>
+            <closer>
+               <signed>One who wiſheth grace, mercy, and peace to all that love the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt in ſincerity and truth. <hi>R. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:118496:3"/>
+            <head>A warning to all people to beware of the Doctrine of the Phariſees. WITH A diſcovery of <hi>England</hi>'s Blind Guide, who falſely calleth himſelf <hi>England</hi>'s <hi>Watchman.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Mark 12.38, 39, 40. verſes.</bibl>
+                  <p>And Jeſus ſaid unto his diſciples, heware of the Scribes and Phariſees, which love to go in long cloathing, and love ſalutations in the market pla<g ref="char:EOLhyphen"/>ces, the chief ſeats in the Synagogues, and the uppermoſt rooms at feaſts; which devour widows houſes, and for a pretence make long prayers, theſe ſhall receive greater damnation, <hi>Mark 12.40.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>Ow all people take notice of theſe ſort of men, which our Saviour Jeſus Chriſt ſpeaks of in this place of Scripture, and ſee if you do not hold them up: Do not your prieſts now go in long robes, as theſe did, which Jeſus Chriſt bids you beware of? Do not your Prieſts love greeting in mar<g ref="char:EOLhyphen"/>kets, as theſe did that Jeſus Chriſt bids you beware of? Do they not love to have you to worſhip them with cap and knee? And ſay h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w do you maſter ſuch a one, as the Scribes did which Jeſus Chriſt bids you beware of; theſe ſeducing ſpirits gets into your hearts and deceive you, and ſeek to devour your ſouls, take heed of them, you have good cauſe for it, for theſe men will deſtroy you if you have not a great care of them, theſe are the men that Jeſus Chriſt bids you heware of in this place of Scripture, and alſo in <hi>Matth.</hi> 23.5, 6, 7.</p>
+            <p>For ſaith Jeſus Chriſt, there in that place of Scripture: <hi>All their works they do to be ſeen of men, they make broad their Philacteries, and enlarge the borders of their Garments;</hi> and they make your purſes pay
+<pb n="5" facs="tcp:118496:3"/>for it; ſee if it be not ſo. All People, beware of theſe ſorts of men which Jeſus Chriſt ſo much ſpake of; he knew the depth of their hearts, and that they were decei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful above meaſure: look to them, as you will anſwer it before the Lord, you have had warning enough of them, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>w you cannot pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad excuſe: All people conſi<g ref="char:EOLhyphen"/>der of it, ſee, by their m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ks ye ſhall know them; Jeſus Chriſt hath ſet them forth by a Character, as you may know them; See the 23 of <hi>Matthew,</hi> and lay it together wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the 12 of <hi>Mark:</hi> And now you may ſee how you have been deceived with thoſe wolves all this night time; now that the day doth appear that you may view them; it is good for you to have a great care of them, leaſt they utterly deſtroy you for ever; they are blind guides, and walk contrary to the doctrine of Chriſt, he ſpoke of them in his doctrine; ſee <hi>Mark</hi> 12.18.</p>
+            <p>See, view them well, and beware of thoſe men, that love to get pearking up into the higheſt places in the Synagogues; theſe are the men that Chriſt bid you beware of, <hi>Mat</hi> 23.6.</p>
+            <p>Now ſee, do not your Prieſts ſit lording over you, and ger peark<g ref="char:EOLhyphen"/>ing into the higheſt places in the Synagogues, and th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Chriſt bids you beware of, take heed of theſe men, they are ſeducers, deceiv<g ref="char:EOLhyphen"/>ers, falſe Chriſts, or Antichriſts, that do not abide in his doctrine, <hi>Mat.</hi> 23.8, 2. <hi>John</hi> 9.</p>
+            <p>See further, they love to be called of men Rabbi, that is to ſay Maſter, as the Scribes and Phariſees did, and do not your Prieſts ſo?</p>
+            <p>Theſe are the men that Jeſus Chriſt bids you have ſuch a care of, and told of them in his doctrine, both in that 23 of <hi>Matthew,</hi> and 12 of <hi>Mark;</hi> look to them, and hold them not up, for God is a<g ref="char:EOLhyphen"/>gainſt them, and will overturn them and their falſe worſhip, which is Pharaſaical.</p>
+            <p>All people have a care of theſe falſe Chriſts; Chriſt ſaid to his,<note place="margin">Mat. 23, 12, 13, 14, 15, 16.</note> be not ye called of men Maſters, <hi>For one is your Maſter even Chriſt,</hi> Mat. 23 8, 9, 10, 11. ſaith he in another place of Scripture, <hi>The Gentiles they exerciſe lordſhip over them, and their great ones exerciſe authority upon them.</hi> The <hi>Gentiles</hi> did ſo, theſe ſorts of men alſo you are to have a care of, and ſee now if your Prieſts be not found in the number of them, that loves Maſtery, contrary to the doctrine of Chriſt, as in theſe places of Scripture, both in <hi>Mat.</hi> 23.8. and this place of Scri<g ref="char:EOLhyphen"/>pture in <hi>Mark</hi> 10.42, 43, 44. <hi>And he that abideth not in the doctrine of Chriſt, hath not God;</hi> ſee 2 John 9. look to theſe ſorts of men, they are ſeducers and deceivers.</p>
+            <p>And ſecondly he that ſaith he is ſent of God and profeſſeth him<g ref="char:EOLhyphen"/>ſelf to be a Miniſter of Chriſt, and walketh contrary to Chriſt,<note place="margin">1 John 2.18.</note> he is Antichriſt, and that is a falſe Chriſt; now there are many Anti<g ref="char:EOLhyphen"/>chriſts; ſee 1 <hi>John</hi> 2.15, 16, 17, 18, verſes.</p>
+            <p>Therefore for exhortation: All people every where, high and low, great and ſmall, rich and poor, bond and free, male and ſemale;
+<pb n="6" facs="tcp:118496:4"/>take heed of your ſouls, ſearch the ſcripture, ſee if your Prieſts do not walk contrary to them, and doth not abide in the doctrin of Chriſt; but are among the Scribes &amp; Phariſees, by their fruits it doth appear, and their damnation is greater; as in <hi>Mar.</hi> 12.14. and <hi>John</hi> ſaith, He that abides not in the doctrine of Chriſt, receive him not into your houſe; neither bid him God-ſpeed, leaſt ye be partakers of his evil deeds; ſee 2 <hi>John</hi> 8.9, 10.</p>
+            <p>All people, as you will anſwer it before the Lord, and as you tender the good of your owne ſouls, take heed of all theſe ſorts of men, theſe blinde guides, and ſeducing Prieſts, that do not abide in the doctrine of Jeſus Chriſt; you have great cauſe to have a care of them: now I have diſcharged my duty to God in forewarning you of them.</p>
+            <p>Look to it, for the leaders of the people cauſe them to erre; as the Prophet <hi>Iſaiah</hi> ſaith, in <hi>Iſa.</hi> 9.16. And if the blinde ſhall lead the blind, both ſhall fall into the ditch, <hi>Mat.</hi> 5.14. poor people now look about you, and be not deceived with theſe blinde guides any longer.</p>
+            <p>I read over a book, ſet forth by one <hi>Thomas Robbins,</hi> Batchelor of Divinity, as he calls himſelf, and Englands watchman. Truly <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may well be in blindneſs, darkneſs, and Ignorance, that hath no better a watchman then ſuch a blinde guide as he is.</p>
+            <p>For he is one of thoſe that leads the people on in blindneſs, and would keep them there, and ſo that Scripture is fulfilled,</p>
+            <p>The blinde leads the blinde, which our Saviour Jeſus Chriſt ſpoke of in <hi>Mat,</hi> 15.14. See if it be not ſo, and the Lord open all your eyes, that you may not run on further into blindneſs, till you cannot get out of darkneſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>This <hi>Thomas Robbins</hi> hath ſtoln the words of the Saints, the Pro<g ref="char:EOLhyphen"/>phets, and Apoſtles, to make a trade of, but never came to know the life of them, and ſo fulfills the ſaying of our Saviour Chriſt, in that tenth of <hi>John,</hi> where he ſaith, All that ever came before me are Thieves and Robbers: but he may expect the juſt judgement of God, that diſſembles with the Lord, and that ſteales the words of others to ſpeak of, not knowing the life of them; but the Lord is againſt him, and ſuch as he is, that ſteales the words of their neigh<g ref="char:EOLhyphen"/>bours, as the falſe Prophets did, which the Lord ſent his true Pro<g ref="char:EOLhyphen"/>phet to cry out againſt, as in <hi>Jer.</hi> 23.30, 31, 32. He might well have called himſelf <hi>England</hi>'s <hi>Blinde Guide,</hi> and not <hi>England</hi>'s Watchman, for he is found a Blinde Guide, by thoſe that have the true Guide, which is the ſpirit of truth, who are guided by the ſpirit of God, are the Sons of God: as in <hi>Rom.</hi> 8.14, 15, 16.</p>
+            <p>And are ſet free by the blood of the lamb, to praiſe and glorifie God; and can ſay with <hi>John</hi> the Diſciple whom Jeſus loved; behold what manner of love is this, That the Father hath beſtowed on us, that we ſhould be called the ſons of God? as in 1 <hi>Joh.</hi> 3.1.</p>
+            <p>But this blinde Guide, that knows not the true Guide, as in his writing it doth appear, he hath many ſtolne expreſſions, and ſlat<g ref="char:EOLhyphen"/>tering
+<pb n="7" facs="tcp:118496:4"/>titles, calling drunkards, and ſwearers, and liers, and proud and covetous, and prophane perſons, ſuch as Eſau was, whom God hated, thoſe that are in the ſame nature, he nuzzles them up in their ſins, and ſpeakes ſmooth things to them, calling them good people, and good chriſtians, when as Jeſus Chriſt when he was called good maſter: he ſaid to him that called him ſo, why calleſt thou me good, there is none good but one, that is God, <hi>Mark,</hi> 10.17, 18. <hi>ver.</hi> and he ſaith good people, let us have a care of this time, and ſpeaks of falſe Chriſts, and falie prophets, and doth not ſee himſelfe to be one of thoſe that Jeſus Chriſt bids the people that knowes him, to beware of; thoſe that have eyes to ſee may ſee him to be one of them, for he is a wicked ungodly perſon, as he himſelfe doth confeſſe, in his a page, and he ſpeakes againſt falſe Chriſts, and falſe prophets, that neither knows the true Chriſt, nor the true prophers, by any inward Experience: but as he doth confeſſe, he is a wicked and ungodly perſon, and ſuch have nothing to do to take his word into their mouthes to ſpeake of: for ſaith Jeſus Chriſt, what haſt thou to doe to take my word into thy mouth, that hateſt to be reformed; and again ſaith our Lord Jeſus, let every one that nameth the name of Chriſt depart from iniquity, for ſaith he, though they have pro<g ref="char:EOLhyphen"/>pheſied in my name, and be found workers of iniquity, I will ſay I know you not, depart from me, ye that be workers of iniquity, in<g ref="char:EOLhyphen"/>to hell, prepared for the divell and his angells, <hi>Math.</hi> 25. but this blind guide, though falſely he calles himſelfe Englands warchman, he contends for ſin, which is the divels practiſe, and he ſpeakes a<g ref="char:EOLhyphen"/>gainſt the people of God that knowes the true Chriſt, manifeſted to take a way ſin, and to deſtroy the workes of the divell, as they did that ſpoke forth the ſcriptures, as in 1 <hi>John,</hi> 3. <hi>chap.</hi>
+            </p>
+            <p>This blinde guide which calls himſelfe Englands watchman, may be aſhamed of his miniſtry, that hath taken their money ſo long for that which is no bread, neither hath thy miniſtry wrought any re<g ref="char:EOLhyphen"/>formation, for as thou ſayeſt in page the 4th, that there is nothing more uſed then lying and ſwearing cheating and cuzening one with another, as thou ſayeſt, and that which is an abomination with the Lord, thou mayeſt now ſee what little uſe thy miniſtry is of, it is abominable, the fruits of abominations are brought forth by it; and now if thou hadſt any grace, as thou ſayeſt in page the 2, thou haſt but little, it doth appear that queſtions it, but as thou ſayeſt, if thou hadſt but ſo much grace as to ſerve the Lord, as in page 2, thou mighteſt bluſh and be aſhamed that thou ſhould be no better a watchman; But it is but that the ſcriptures may be ful<g ref="char:EOLhyphen"/>filled, his watchmen are all blind: as in <hi>Iſaiah,</hi> 56.10.11. <hi>ver.</hi>
+            </p>
+            <p>Therfore woe to you, and woe to thee thou blind guide, woe and miſery is your portion.</p>
+            <p>And as thou ſayeſt, it is time for thee and ſuch as thou art to a<g ref="char:EOLhyphen"/>mend your wicked live, as in thy ſecond page; Nay ſurely it is high time for thee to amend thy wicked life, that ſayeſt thou art a watch<g ref="char:EOLhyphen"/>man
+<pb n="8" facs="tcp:118496:5"/>for a whole nation, and ſends thy trumpet about, to be ſound<g ref="char:EOLhyphen"/>ed in faires and markets, that thoſe that have eyes to ſee may ſee that thou <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t one of Englands blinde guides, and as ſaith the Lord by his prophet <hi>Iſaiah,</hi> his watchmen are all blinde, they are all igno<g ref="char:EOLhyphen"/>rant, they are all greedy dumb dogs, and ſhepheards that cannot un<g ref="char:EOLhyphen"/>derſtand, and every one lookes for his gain from his quarter, as in <hi>Iſaiah,</hi> that 59.10.11. <hi>ver.</hi>
+            </p>
+            <p>Surely England hath been blindly led a long time, that hath no better a watchman then thou art, a blinde guide, that is ignorant of the work of God, as thou art.</p>
+            <p>Now it is high time for England to looke up to the Lord, and remove ſuch blinde guides as thou art, who would make Chriſt of none effect, but to talke of: as in the latter end o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy ſecond page: which is thy principle head, and ſayes that falſe Chriſts, and falſe prophets may be known by this, that there bee ſome that ſay they have no ſin.</p>
+            <p>
+               <hi>Firſt,</hi> Herein thou ſheweſt thy blindneſſe and ignorance in the things of God,<note place="margin">Heb. 2, 16, 17, 18. 2 Cor. 5.21.</note> for in the true Chriſt there was no ſin at all, hee was without ſin, and he tooke our nature upon him, and was mani<g ref="char:EOLhyphen"/>feſted to take away ſin, and the ſcripture ſaith that he that abideth in him ſinneth not, and who ſo ſinneth hath not ſeen him, neither known him, 1 <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn,</hi> 3 5, 6. <hi>ver.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> And thoſe that ſpoke forth the ſcripture, and knew him manifeſted to take away ſin, and to deſtroy the works of the divell ſaid,<note place="margin">1 John 3.5. &amp; 8, 9. 2 Cor. 5.17, 18. Gal. 6.11. Gal. 5.24. Rom. 6. Heb. 2.10.11. 1 John 4.17. Heb. 2.14.15. John. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.19, 20, 21, 22, 23. Joh. 15.1, 2, 3.</note> that he that was in Chriſt was a new creature old things were paſſed away, and the old nature and old wickedneſſe was deſtroyed, and they ſaid that they had Crucified the fleſh with the affections and luſts thereof, and ſo have they that are Chriſts now, and with<g ref="char:EOLhyphen"/>all, the Romans ſaid, how ſhall we that are dead to ſinn live any longer therein, for he that ſanctifyeth and they that are ſanctifyed are of him, and they are all one, and hee is not aſhamed to call them brethren, for as he is, ſo are we in this preſent world, and ſaith Jeſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt himſelfe, ye are bone of my bone, fleſh of my fleſh, and I have ingrafted them into me through the ſpirit, for ſaith the true Chriſt, I am the vine, and yee are the branches, but he doth not engraft ſin into the vine, it is the pure ſeed which is after the ſpirit, which thou ſheweſt thy ſelfe to be ignorant of, and ſeemes here to raſe the foundation of the ſcripture, thou blinde guide, thou doſt exceedingly ſhew forth thy blindneſſe and ignorance in the things of God, 2 <hi>Timoth.</hi> 3.8.9. <hi>ver.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The ſcripture ſaith, little children, let no man deceive you, he that doth righteouſneſſe is righteous, even as he is righteous; but he that commits ſin is of the divelj, by this the children of God are manifeſted, and the children of the divell, 1 <hi>John.</hi> 3.9, 8. <hi>ver.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> The ſcripture ſaith that he that is borne of God ſinneth not, neither can he ſin, becauſe his ſeed remaineth in him, and again we know that he was manifeſted to take away our ſin, and in him
+<pb n="9" facs="tcp:118496:5"/>and again we know that he was manifeſted to take away our ſin, and in him is noe ſin at all, ſoe ſaith the ſcripture, 1 <hi>John,</hi> 3.9, 10.</p>
+            <p>But thou plainly ſhewes thy ſelfe to be blind and ignorant of him, that knowes not his manifeſtation in thee to take away ſin, for he that commiteth ſin is. of the divell, and whoſoever doth not righ<g ref="char:EOLhyphen"/>teouſneſs, is not of God, neither he that loveth not his brother; by this the children of God are manifeſted and the children of the divell.</p>
+            <p>Now thou mayeſt plainly ſee whoſe ſervant thou art,<note place="margin">Iohn 8.34. &amp; 44. Rom. 6.16. 1 Iohn 4.</note> of thy fa<g ref="char:EOLhyphen"/>ther the divel, and his ſervants ye are to whom ye do obey, he that obeyes ſin, he is the ſervant of ſin, ſerveing the divell, they are of the world as thou art, therefore ſpeake they of the world as thou doſt, and the world heareth them, all that act and delights in ini<g ref="char:EOLhyphen"/>quity, as it doth thee: we are of God, he that is of God and delight<g ref="char:EOLhyphen"/>eth in righteouſneſs heareth us, he that is not of God heareth us no; hereby know we the ſpirit of truth and the ſpirit of errour, See 1 <hi>John</hi> 4.2, 3, 4, 5, 6.</p>
+            <p>But thou bringeſt in David for a cloake for thy hypocriſie, thou art ignorant of Davids conditior, he ſpoke his experiences, and in the working our of ſin, he cries out of it;<note place="margin">Pſal. 10.5, 6, 7, 8, 9. Pſal. 110.1, 2, 3. Pſal. 112. Pſal. 116. Pſal. 105. Pſal. 11.8.</note> David did experience the two ſeeds, which thou ſheweſt thy ſelfe to be ignorant of, and David being delivered from ſin, he ſaid, thou haſt delivered my ſoule out of hell, and my darling from the dogge; and he ſaid, bleſſed is the man to whom the Lord imputeth not ſin, and David ſaid, he would behave himſelfe wiſely, in a perfect way, and he would walke in the houſe of the Lord with a perfect heart, and ſaith he, a froward heart ſhall depart from me, and he would not know a wicked perſon, and he that wrought deceite ſhould not dwell in Davids houſe, and he that telleth lies ſhould not tarry in his ſight, <hi>&amp;c.</hi> And ſaith David, him that privately ſlandereth his neighbour, him will I cut off, and ſaith he, him that hath an high looke and a proud heart I will not ſuffer; But mine eyes ſhall be upon the faithfull of the land, that they may dwell with me, and he that walketh in a perfect way, ſaith David he ſhall ſerve me <hi>Pſal.</hi> 101.1, 2, 3.4. to the end.</p>
+            <p>But thou and ſuch blinde guides as thou art are ignorant of Da<g ref="char:EOLhyphen"/>vids conditions, yet you can take his words to talk of, and ſay, <hi>Was not</hi> David <hi>a man after Gods own heart, and he ſinned; &amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>Let me ask you, Did ever Gods own heart ſin?</hi>
+            </p>
+            <p>Did you but know <hi>Davids</hi> conditions; you may ſee, he deſired God to take away his firſt heart, and to create in him a new heart, and to renew his holy Spirit within him.</p>
+            <p>And the Lord heard his prayer,<note place="margin">Pſal. 119.1, 2, 3, 4. &amp;c. Pſal. 145, Pſal. 146. Pſal. 147. Pſal. 111.</note> but <hi>David</hi> went through many afflictions and many ſufferings before; and ſpoke his Experiences, how it was with him in all his Conditions, I beare teſtimony to the ſame truth, through death; and when <hi>David</hi> had a new heart given him, It was a perfect heart, and he ſaid, O God my heart is fix<g ref="char:EOLhyphen"/>ed, I will ſing and give thanks with my whole heart, and then
+<pb n="10" facs="tcp:118496:6"/>
+               <hi>Davids</hi> heart was filled with praiſes to the Lord, as he ſaith, O my ſoule, bleſs thou the Lord, praiſe him and magnify him forever, and ſaith he ſeverall times, oh that men would praiſe the Lord for his goodneſſe: <hi>Pſal.</hi> 108.1, 2, 3. <hi>&amp;c.</hi> And ſaith <hi>David,</hi> Bleſſe the Lord, O my ſoul, and all that is within me praiſe his holy name. <hi>David</hi> was delivered out of troubles, and ſaith he, bleſs the Lord oh my ſoul, and forget not all his benefits, who forgiveth all thine iniqui<g ref="char:EOLhyphen"/>ties, who healeth thy diſeaſes, <hi>&amp;c. Pſal.</hi> 103.1, 2, 3, 4, 5, but the world and <hi>Englands</hi> blinde guides, and blinde watchmen, knows no<g ref="char:EOLhyphen"/>thing of <hi>Davids</hi> conditions to ſpeake of them from inward Experi<g ref="char:EOLhyphen"/>ence, and they that ſpeakes of them, and knowes them not, by Ex<g ref="char:EOLhyphen"/>perience ſteales his words to trade withall, as alſo the words of all the prophets and Apoſtles, but the Lord is againſt ſuch.</p>
+            <p>And aa for that people which thou ſpeakeſt of, that ſay there is neither God nor divell, and that the ſcriptures is much abuſed by them, I know none that do ſo much abuſe the ſcriptures, as thou, and ſuch as thou doſt, that makes no other uſe of them, then to trade withall for money, that you may deceive poor people, by your Inventions and imaginations, and that you are the men that doth both deny God and diſhonor him in your practiſe, but be you aſſured, that God will be avenged of you, and all proud Boaſters and heady highminded ones, and ſuch as <hi>Paul</hi> ſpeakes of in the 2 of <hi>Tim.</hi> 3. and likewiſe al vain talkers and ſuch as in words profeſs God, but in workes deny him, as in <hi>Titus,</hi> 1.16. for thou ſhalt know God to be a ſevere judg to judg the heathen in righteouſneſs.</p>
+            <p>And that there is a hell alſo thou ſhalt know, and all that doth deny it, and all that delights in wickednes, for the wicked and all that forget God ſhall be turned into hell, <hi>Pſal.</hi> 9.17. <hi>Math.</hi> 25.41.</p>
+            <p>And the time is now already come,<note place="margin">2 Tim. 4.3, 4. Hoſea 4. Hoſea 5.</note> that thou and all that are in the firſt nature cannot endure ſound doctrine, and that is the rea<g ref="char:EOLhyphen"/>ſon wickedneſs is grown to ſuch an height, but thy Doctrine is cor<g ref="char:EOLhyphen"/>rupt, and doth not profit the people at all, as the Lord hath ſaid by his ſervant the Prophet, in the Propheſie of <hi>Jeremiah, Jer.</hi> 23.32. and thou art one of thoſe that ſtrengthens the hands of evil doers, as in Ver. 10, 11, 11, 13, 14.</p>
+            <p>And thou haſt watcht in vain, for thy Miniſtry is corrupt, and thou ſheweſt forth thy folly, and thy madneſs, Repent and bluſh for ſhame, for thou art one that turneth the peoples ears unto fables, in theſe thy notionary Rabbles; it is fulfilled now by thee, and ſuch blinde guides as thou art, that creeps into houſes, a Steeple-houſe, which is the Idols Temple, telling the people, as moſt of you do, that it is a Church, and the Houſe of God, which is a lye: for the Apoſtle ſaith, <hi>That God that made the world, doth not dwell in Temples made with hands;</hi> neither is he worſhipped with mens hands, <hi>Acts</hi> 7.47, 48: <hi>Acts</hi> 17.24, 25. <hi>Iſa.</hi> 66.1, 2.</p>
+            <p>Now ſuch as thou art, creeps into one of theſe Idol Temples, and makes merchandize of poor ſouls, and there you Sir <hi>Simons</hi> ſits buy<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:118496:6"/>and ſelling the Letter for money, and ſo deceivès poor people, and keeps them ever learning, and never able to come to the know<g ref="char:EOLhyphen"/>ledge of the truth; and as <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes,</hi> ſo doſt thou, and ſuch as thou art, reſiſt the truth, men of corrupt hearts, reprobates concerning the faith; as in 2 <hi>Tim.</hi> 3.6, 7, 8, 9.</p>
+            <p>Thou, and ſuch as thou art do ſeduce people, and draweth them from the pure light within, to obſerve dreams and fancies of your own brain; as thoſe did that the Lord ſent to cry out againſt; as in <hi>Jer.</hi> 23.24, 25, 26, 27.</p>
+            <p>And in thy other particular branch or clauſe of thy book, where thou calleſt thy ſelf <hi>Englands Watchman.</hi>
+            </p>
+            <p>Thou ſayeſt that falſe Prophets are now abroad; for there is a peo<g ref="char:EOLhyphen"/>ple thou ſayeſt in many places, that ſay Chriſt is in them; and would make them falſe Chriſts, and falfe Prophets.</p>
+            <p>Thou ſayeſt that falſe Prophets are now abroad; for there is a peo<g ref="char:EOLhyphen"/>ple thou ſayeſt in many places, that ſay Chriſt is in them; and would make them falſe Chriſts, and falfe Prophets.</p>
+            <p>Thou blinde Guide, and dim Light, thou here openly ſheweſt forth thy folly, and ſhews thy ignorance; alas, alas, poor, blind, mad Prophet, if the dumb Aſs did ſpeak to thee, as it did to <hi>Balaani,</hi> thou wouldſt be condemned by it.</p>
+            <p>
+               <hi>England</hi> may well be in blindeneſs and darkneſs that hath ſuch Watchmen as thou art, and juſtly may the Lord complain, and ſend forth Plough-men and Tradeſ-men to cry out againſt you, and ſay his Watchmen are all blinde, as <hi>Iſaiah</hi> did.</p>
+            <p>Thou here erreſt exceedingly, and ſhewſt forth thy envy and de<g ref="char:EOLhyphen"/>ſpite to the Spirit of Grace; the Lord rebuke thee, thou mad Meſ<g ref="char:EOLhyphen"/>ſenger of Antichriſt, that thou ſhouldeſt be ſo blinde-folded, and, hood-winkt; thou haſt eyes and ſeeſt not, thou here art ignorant in<g ref="char:EOLhyphen"/>deed of the true Guide, and ignorant of the Doctrine of the Apoſtles, and ignorant of the Scriptures, and would have all to take notice, and to know, that <hi>Englands Watchman is a Reprobate:</hi> and thou art to be holden, both thou and thy Doctrine to be accurſed: for the Apoſtle <hi>Paul</hi> ſaith, <hi>That if any bring any other Doctrine, then what they had taught was to be holden accurſed.</hi> See <hi>Gal.</hi> 1.8, 9.</p>
+            <p>Now the Apoſtle <hi>Paul,</hi> who was the true Miniſter of Jeſus Chriſt, and did abide in his Doctrine, bad all have a care of ſuch a deceiver as thou art; for thou art contrary both to Chriſt and his Apoſtles, and ſhewſt the ſpirit of error, and art of Antichriſt, and a falſe Pro<g ref="char:EOLhyphen"/>phet, which art to be taken notice of; all that are enlightned by the Spirit of God, may ſee thy folly, and thy madneſſe, and the vengeance of God hangs over thy head, for thy hypocriſie and diſſimulation, and all ſuch as thou art, <hi>Mat.</hi> 23.12, 13, 14, &amp;c.</p>
+            <p n="2">2. The Apoſtle <hi>Paul</hi> in his Doctrine, he ſaid to the <hi>Corinthians</hi> whom he taught, <hi>Examine your ſelves, prove your ſelves:</hi> he puts them both upon the examination and proof of the thing, 2 <hi>Cor.</hi> 13.5.</p>
+            <p>And thirdly, ſaith he, <hi>Know you not your own ſelves, how that Chriſt is in you, except ye be reprobates?</hi> and here thou plainly ſheweſt thy ſelf to be a reprobate, and without God in the world, and art igno<g ref="char:EOLhyphen"/>rant of the life of the Scriptures, and the ſame Spirit that they had
+<pb n="12" facs="tcp:118496:7"/>that ſpoke forth the Scriptures, and art a blinde guide, <hi>Englands Blinde Guide,</hi> walking by a ſpirit of deluſion, and ſhewing that thou art led by a ſpirit of error; All people, take heed of ſuch ſeducing ſpirits as theſe are, which will neither go into the Kingdom of hea<g ref="char:EOLhyphen"/>ven themſelves, nor ſuffer them that would to enter, as in <hi>Mat.</hi> 23.13. but the wo is to ſuch: Theſe are they that Jeſus Chriſt doth fore<g ref="char:EOLhyphen"/>warn you of: All people, take heed of them, and be no longer ſe<g ref="char:EOLhyphen"/>duced by them, <hi>Gal.</hi> 3.1. 1. John 2.26. <hi>Englands</hi> Watchman, ſalfly ſo called, but rather <hi>Englands</hi> blinde Guide, and blinde he is indeed, both of the Doctrine of Chriſt, and his true Miniſters.</p>
+            <p n="2">2. For the Apoſtle <hi>Paul,</hi> who was a true Miniſter of Jeſus Chriſt, and did abide in his Doctrine, he taught the <hi>Coloſians,</hi> and ſaid to them, <hi>Great is the Myſterie of godlineſs, Chriſt in you the hope of glory:</hi> See <hi>Col.</hi> 1.27. herein <hi>Englands</hi> Watchman, or rather blinde Guide, ſhews forth his ignorance of the Spirit of truth, and the life of the Scriptures, and that he is Guided by a Spirit of error.</p>
+            <p n="3">3. And the Apoſtle himſelf was made a Miniſter not by the will of man, but by the will of God, who revealed his Son in him; as in <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</hi> 1. to 17. but thou that ſayeſt thoſe are falſe Prophets, that ſay they have Chriſt in them, thou art blinde indeed, and teacheth con<g ref="char:EOLhyphen"/>trary both to the Doctrine of Chriſt and his Apoſtles, and thou and thy Doctrine is accurſed, <hi>Gal.</hi> 1.8, 9.</p>
+            <p n="4">4. Thou mightſt as well ſay, that the <hi>Corinthians</hi> and the <hi>Coloſſians,</hi> and the Apoſtle <hi>Paul</hi> himſelf, were falſe Prophets, as to ſay, that thoſe are falſe Prophets that ſay Chriſt is in them: herein thou art exceeding blinde and ignorant, and the Lord may juſtly complain, and ſay, his Watchmen are all blinde indeed.</p>
+            <p n="5">5. Thou blinde Guide, thou here contradicteſt Chriſt himſelf, who ſaid, <hi>That he would dwell in his Saints, and walk in them;</hi> and ſaith to his Father, <hi>All mine are thine, and thine are mine, and I am glorified in them:</hi> See <hi>John</hi> 17.10. and ſaith Jeſus Chriſt in his prayer to his Fa<g ref="char:EOLhyphen"/>ther, <hi>Neither do</hi> I <hi>pray for theſe alone, but for all them which ſhall believe on me through their word, that they all may be one, as thou father art in me, and I in thee, that they alſo may be one in us, that the world may be<g ref="char:EOLhyphen"/>lieve that thou haſt ſent me, and the glory which thou gaveſt me, have I given them, that they may be one, even as we are one: I in them:</hi> See, here is Chriſt in his peaple; ſaith he, <hi>I in them, and thou in me,</hi> both the Father, and the Son dwelling in his Saints, and here is perfecti<g ref="char:EOLhyphen"/>on indeed, <hi>I in them, and they in me, that they may be made perfect in one:</hi> See John 17.20, 21, 22, 23.</p>
+            <p n="6">6. Here is not only Chriſt in us, but God the Father alſo, as he hath ſaid, <hi>I will dwell in them, and walk in them, and they ſhall be my people, and I will be their God,</hi> ſaith the Lord God Almighty, 2 <hi>Cor.</hi> 6.17, 18. <hi>God is love, he that dwelleth in love, dwelleth in God, and God in him.</hi> See 1 John 4.15, 16, 17.</p>
+            <p n="1">1. Herein thou ſheweſt thy ſelf to be out of God and Chriſt both, &amp; ſo art both an enemy to Jeſus Chriſt and his, where he is made ma<g ref="char:EOLhyphen"/>nifeſt,
+<pb n="13" facs="tcp:118496:7"/>and art a falſe Prophet, a Seducer, and an Antichriſt, and De<g ref="char:EOLhyphen"/>ceives both thy ſelf and others, and art guided by a ſpirit of error; and the God of this world hath blinded thy eyes, and the Prince of the power of the ayr ruleth in thee, and all the children of diſobe<g ref="char:EOLhyphen"/>dience; and thou and they makes lyes your refuge, and ſo forſakes the onely Lord God, to delight in lying vanities: but it is but that the Scripture may be fulfilled: wickedneſs is growing up to the height, but the wrath of God is to be revealed in flames of fire upon all the children of diſobedience, and he will reward every one ac<g ref="char:EOLhyphen"/>cording as his deeds is, tribulation and anguiſh to every ſoul that doth evil, 2 Theſſ. 1.6, 7, 8, 9, 10. Rom. 2.8, 9.</p>
+            <p n="2">2. Thou art full of deceit, thou blinde Guide, and full of confu<g ref="char:EOLunhyphen"/>ſion, which is the Language of <hi>Babylon,</hi> thou that calleſt thy ſelf <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Watchman, thou art full of lyes alſo, and takes the Apoſtles words, who was an Ambaſſador in bonds for the truths ſake; as in <hi>Epheſ.</hi> 6.2. but the truth ſuffers by thee, and ſuch as thou art, and thou art at liberty in deceit: and thou in the beginning of thy Book ſpeaks againſt a people that ſay they have no ſin: and if they be ſet free from ſin, they have more cauſe to praiſe and glorifie God for his good<g ref="char:EOLhyphen"/>neſs: is thine eye evil, becauſe he is good? and becauſe thou liveſt in ſin and deceit, wilt thou judge them out of thy evil thoughts? who makes thy ſelf apparent to be a reprobate, that denies Chriſt to be come into his people, ſhewing that thou art ignorant of him in thy ſelf, and ſo makes thy ſelf manifeſt to be Antichriſt, as in that place of Scripture, 1 John 4.1, 2, 3.</p>
+            <p>It is the blood of Jeſus Chriſt his Son, that cleanſeth us from all ſin, to him be praiſe for ever and ever, who hath ſent his Son into the world to take away our ſin: it is his own work, and he is wor<g ref="char:EOLhyphen"/>thy to have the praiſe, who waſheth and cleanſeth us, and juſtifieth and ſanctifieth us by his Spirit. as it is in 1 <hi>Cor.</hi> 6.11. and maketh us perfect through his comelineſs, as <hi>Ezek.</hi> 16. It is God that juſtifieth us, who art thou that ſhall lay any thing to the charge of Gods elect? Rom. 8.31, 32, 33.</p>
+            <p>But thou art conſuſed in thy writing, building up, and throwing down, and daubing with untempered morter, ſlattering titles, and fair ſpeeches, and ſpeak againſt the apparent people of God, in whom he is made manifeſt in meaſure, to take away ſin, and ſays they are falſe Prophets, that ſay they have no ſin, thou maiſt as well ſay, that Chriſt had been a falſe Prophet, if thou durſt but for an out ward law, for he was without ſin, <hi>and he that abideth in him ſinneth not</hi> faith <hi>John;</hi> and he ſaid, as he was ſo was they in this preſent world, and he that was born of God ſinned not, ſee the Scriptures for it, 1 <hi>Joh.</hi> 3.5, 6, 9. 1 <hi>Joh.</hi> 4.16, 17. Herein thou art exceeding carnal, ſottiſh, and ignorant of the Scriptures, and ſhews the ſpirit of error.</p>
+            <p>And in the latter end of thy writing, that which thou haſt been ſpeaking againſt, thou takeſt their words that were perfected to confute thy ſelf withal; and ſays as many as are perfect, let us be thus minded.</p>
+            <pb n="14" facs="tcp:118496:8"/>
+            <p n="5">5 They that writ the Scriptures, they had the life of them, and was perfect and compleat in Chriſt Jeſus, and thou mayeſt ſee that Scrip<g ref="char:EOLhyphen"/>ture which thou makeſt uſe of in <hi>Phil.</hi> 3.15. may be a ſufficient wit<g ref="char:EOLhyphen"/>neſs againſt thee, and let thee ſee that thou art a thief, taking theſe words to ſpeak of, who knows nothing of the life of them that ſpoke them forth;<note place="margin">John 10.1.</note> but this is to let thee ſee thy folly, and that thou mayeſt know that the day of the Lord is coming to overturn thee and thy deceits, and to render vengeance upon the head of the wick<g ref="char:EOLhyphen"/>ed; vengeance is mine, and I will repay it ſaith the Lord, fury to mine adverſaries; and thus ſaith the Lord, behold the day cometh and haſteth greatly to overturn the works of darkneſs, and the workers of iniquity, and it ſhall burn as an oven, and all that are proud, and all that do wickedly ſhall be as ſtubble, and the day that cometh ſhall burn and conſume them up, and ſhall leave them neither root nor branch, ſaith the Lord God almighty, <hi>Mal.</hi> 4 1. Repent thou blind guide, and give over thy deceiving, for wo and miſery is thy portion.</p>
+            <p>ALL people minde your teacher within, and ceaſe from all ſuch blinde guides as this, who falſely calleth himſelf <hi>England</hi>'s <hi>Watchman,</hi> who taketh your money for that which is no bread, and filleth your ears full of fancies, and your hearts full of lyes by his deceitful doctrine.</p>
+            <p>All the Children of the Lord are taught of the Lord, and in righ<g ref="char:EOLhyphen"/>teouſneſs are they eſtabliſhed,<note place="margin">Iſa. 54.13, 14. Jer. 31.33, 34. Heb. 8.10, 11. Titus 2.11, 12, 13, 14. 1 Cor. 9.15, 16 17, 18, 19. Act 20.32, 33, 34, 35, 2 Cor. 6. Gal. 1. 2 Cor. 3.</note> and the Lord teacheth his to deny ungodlineſs and worldly luſts, and to live righteouſly, ſoberly, and godlily in this preſent world, and the teachings of God are free without money, or without price, ſee <hi>Iſa.</hi> 55. He that takes money for ſpeaking is a tradeſ-man of the merchants of <hi>Babilon.</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> ſaid, neceſſity was laid upon him, and wo was to him if he did not preach the Goſpel, and he ſaid, that it was better for him to dye, then to make the Goſpel of Chriſt burthenſome, and he coveted no mans ſilver nor gold, he took God to witneſs; but as he had received his doctrine of the Lord, he ſpoke it forth to o<g ref="char:EOLhyphen"/>thers, and he found Chriſt revealed in him, and he laboured, ſtriving mightily by the power of God in him, to preſent every man perfect in Chriſt Jeſus, and they had the heavenly treaſure in earthen veſ<g ref="char:EOLhyphen"/>ſels, and did preach wiſdom to them that was perfect, and he and they who were true miniſters of Jeſus Chriſt, and did abide in his doctrine, did teach and exhort all whom they taught, to come to know Chriſt in them, but this man, <hi>England</hi>'s <hi>Blinde Guide,</hi> that de<g ref="char:EOLhyphen"/>ſcribes them to be falſe Prophets that ſay they have Chriſt in them, he is blinde and knows not the truth, and is a ſeducing ſpirit, and doth labour to draw people from the truth, and is an Antichriſt; therefore take heed of him, and ſuch ſeducing ſpirits as he is, for there are many of them abroad in the world, but <hi>John</hi> hath fore<g ref="char:EOLhyphen"/>warned you of ſuch; therefore beware of them all, ceaſe from them, and hold them not up, leaſt ye be pertakers of the judgements with
+<pb n="15" facs="tcp:118496:8"/>them, and come out of the Idols worſhip; and come out of <hi>Babilon</hi> ſaith the Lord God Almighty, 2 <hi>Cor.</hi> 6.16, 17, 18. <hi>Rev.</hi> 18.4, 5.</p>
+            <p n="1">1 Saith <hi>John</hi> in his Epiſtle,<note place="margin">1 John 4.12. 2 Cor 6 14, 15, 16. 1 Cor. 6.19, 26, Gal. 2.20.</note> 
+               <hi>ſearch and try the ſpirits whether they be of God or no;</hi> try the ſpirits, and believe not every ſpirit, becauſe many falſe prophets are gone out into the world, hereby know we the ſpirit of God, every ſpirit that confeſſeth Jeſus Chriſt come in the fleſh is of God, I witneſs him come into my fleſh, ruling in this earth<g ref="char:EOLhyphen"/>en veſſel, or tabernacle, as the Apoſtle did witneſs, and the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> and ſaid that Chriſt was manifeſted in them, and did dwell in their mortal fleſh: See 2 <hi>Cor.</hi> 4, 5, 6, 7, 8, 9, 10, 11.</p>
+            <p>But this blinde guide ſhews himſelf ignorant of this miniſtry, and of the life of the Scriptures, that ſaith they are falſe prophets that ſay Chriſt is in them, and he ſhews himſelf to be a Reprobate. 2 <hi>Cor.</hi> 13.5.</p>
+            <p n="2">2 Now ſee what <hi>John</hi> ſaith 1 <hi>Joh.</hi> 4.3. and ſaith he, <hi>every ſpirit that confeſſeth not that Jeſus Chriſt is come in the fleſh is not of God,</hi> and this is that falſe Chriſt or ſpirit of Antichriſt, whereof you have heard that it ſhould come, and now already it is in the world, See 1 <hi>Joh.</hi> 4.3. and this blinde guide that denies Chriſt to come to rule in his Saints, is ignorant of him that ſaith, they are falſe prophets that ſay Chiſt is in them; take notice of ſuch a ſeducing ſpirit, all people, or you have great cauſe ſo to do: in 1 <hi>Joh.</hi> 2 20. <hi>John</hi> ſaith, <hi>ye have an unction from the holy one, and ye know all things:</hi> And again, ſaith he, in <hi>verſe</hi> 27. <hi>But the anointing which ye have received of him,</hi> which is Chriſt, <hi>dwelleth in you,</hi> and yeo need not that any man teach you, <hi>but as the ſame anointing,</hi> which is Chriſt in you, ſaith, he <hi>teach<g ref="char:EOLhyphen"/>eth you all things:</hi> and it is truth, and is no lye; likewiſe ſee <hi>Joh.</hi> 14.16, 17. and 26 <hi>verſes.</hi> what Jeſus Chriſt ſaith there; and this de<g ref="char:EOLhyphen"/>ceiver teacheth contrary both to Chriſt, and his Apoſtles, let him and his doctrine be held accurſed; for it is that the Scripture may be fulfilled, beware of him, and ſuch as he is, and hold them not up: down with them, down with them, for the Lord is againſt them.</p>
+            <p n="3">3 For ſee what <hi>John</hi> ſaith, 1 <hi>Joh.</hi> 2.18. Little children ſaith he, it is the laſt time; and ye have heard that Antichriſt ſhall come, even now are there many falſ Chriſts, or Antichriſts, ſuch as do not abide in the doctrine of Chriſt, but ſeeketh to draw people from the anointing within, theſe are ſeducers and Antichriſts, 1 <hi>Joh.</hi> 2.18, 22, 26.</p>
+            <p>Now you have time, priſe it, and minde the light of God in you,<note place="margin">Exhortation.</note> that ſhews you ſin and evil, and lets you ſee the vanity of your mindes, and the deceits of your hearts, as in 2 <hi>Pet.</hi> 1.19. and it will turn your mindes within, towards God, who is pure, and of purer eyes then to behold iniquity, to ſet up his law in you, and his judgement there to condemn ſin in the fleſh, and to work out the carnal part in you, that your bodies may be fit temples for God to dwell in, that you may know him, to rule by his power in you, ſha<g ref="char:EOLhyphen"/>king down the earthly wiſdom, and cutting through the ground of imaginations, and renting the vailes of darkneſs in you, making your earthly hearts to ake, and all your bones to ſhake, and the Moun<g ref="char:EOLhyphen"/>tains
+<pb n="16" facs="tcp:118496:9"/>in you to Quake,<note place="margin">Heb. 12.21. Job 4.14. Job 21.5, 6. Job 37. 1. Ier. 23.9. Habac. 3.16. 1 Ioh. 3.9, 10. 1 Iohn 5.18, 19, 20. 1 Ioh. 5.1, 2, 3, 3, 5, 6. 1 Ioh. 3.23, 24</note> and rent the rocks, your hard ſtony hearts, to work his own work in you, that you may know God indeed, and not call him a Father, and Chriſt a Saviour, and you live and de<g ref="char:EOLhyphen"/>light ſtill in wickedneſs, that is a mocking of God, but be not de<g ref="char:EOLhyphen"/>ceived, God will not be mocked; take heed what you do, and live not by imaginations, and ſay you believe, you beleeve, but bring forth fruits of a believer, or elſe your faith is but a dead faith, and will not profit you, but fail you in the time of need; let it be tryed by fire, and bring forth fruit unto God; he that beleeveth on the Son of God, is born again of water and the ſpirit, and hath the witneſs in himſelf, and eternal life dwelleth in him, 1 <hi>Joh.</hi> 5.10, 11, 12, 13.</p>
+            <p>The Kingdoms of the world ſhall ere long become the Kingdoms of the Lord, and of his Chriſt, and he ſhall rule all Nations with a rod of Iron; it is hard to kick againſt the pricks; the Lord is ſet<g ref="char:EOLhyphen"/>ting up the miniſtry of his Son in the hearts of his people, and no<g ref="char:EOLhyphen"/>thing ſhall ſtand nor remain but his Own pure being; The Lord one, and his Name one, even both Prieſt, Prophet, and King, The Lord our righteouſneſs, even God bleſſed for ever and ever, <hi>Amen.</hi>
+            </p>
+            <p>Singing Hallelujah to the higheſt, the great and mighty day of the Lord is coming on apace, and the Earth ſhall quake, and the Mountains ſhall ſhake, and the Hills ſhall tremble, and the Iſles ſhall fly away: Then ſhall the Saints ſing and rejoyce in the Lord, and cry, <hi>Happy, Happy Day; Wo, we to the wicked.</hi>
+            </p>
+            <closer>
+               <signed>Richard Farneworth.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
